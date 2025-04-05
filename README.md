@@ -1,4 +1,4 @@
-# 💻 Atividades de Algoritmo e Lógica de Programação — C
+#💻 Atividades de Algoritmo e Lógica de Programação — C
 
 Este repositório contém as atividades desenvolvidas durante a disciplina de **Algoritmo e Lógica de Programação**, ofertada pelo professor **Daniel Sunfield**.
 
