@@ -8,7 +8,7 @@ As atividades foram implementadas na linguagem **C**, com foco nos fundamentos d
 ## 👨‍🏫 Sobre a disciplina
 
 - **Professor:** Daniel Sunfield  
-- **Disciplina:** [Algoritmo e Lógica de Programação*]  
+- **Disciplina:** [Algoritmo e Lógica de Programação]  
 - **Instituição:** [Universidade de Brasília - UnB]  
 
 
