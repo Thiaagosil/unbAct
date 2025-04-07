@@ -1,13 +1,13 @@
 # 💻 Atividades de Algoritmo e Lógica de Programação — C
 
-Este repositório contém as atividades desenvolvidas durante a disciplina de **Algoritmo e Lógica de Programação**, ofertada pelo professor **Daniel Sunfield**.
+Este repositório contém as atividades desenvolvidas durante a disciplina de **Algoritmo e Lógica de Programação**, ofertada pelo professor **Daniel Sundfeld**.
 
 As atividades foram implementadas na linguagem **C**, com foco nos fundamentos da programação estruturada, como variáveis, estruturas condicionais, laços, vetores, funções, entre outros.
 
 
 ## 👨‍🏫 Sobre a disciplina
 
-- **Professor:** Daniel Sunfield  
+- **Professor:** Daniel Sundfeld
 - **Disciplina:** [Algoritmo e Lógica de Programação]  
 - **Instituição:** [Universidade de Brasília - UnB]  
 
