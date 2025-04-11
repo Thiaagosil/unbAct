@@ -20,9 +20,9 @@ As atividades foram implementadas na linguagem **C**, com foco nos fundamentos d
 
 ```bash
 .
-├── atividade01.c        # Entrada, saída e operações básicas
-├── atividade02.c        # Condições e operadores relacionais
-├── atividade03.c        # Estruturas de repetição
-├── atividade04.c        # Vetores e manipulação de arrays
-├── desafio_troco.c      # Cálculo de troco com menor número de moedas
+├── media_apc.c        # Entrada, saída e operações básicas
+├── pedraPapelOuTesoura.c        # Condições e operadores relacionais
+├── somaNumPares.c        # Estruturas de repetição
+├── cpfvalido.c        # Vetores e manipulação de arrays
+├── maquina.c      # Cálculo de troco com menor número de moedas
 
